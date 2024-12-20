@@ -5,10 +5,10 @@ This project is a number guessing game implemented in Java, created as a collabo
 ## Features
 
 - Four levels of difficulty: Each with a different range for the randomly generated number:
-  - Easy: Guess a number between 1 and 10.
-  - Medium: Guess a number between 1 and 50.
-  - Hard: Guess a number between 1 and 100.
-  - Expert: Guess a number between 1 and 1000.
+  - Easy: Guess a number between 1 and 20.
+  - Medium: Guess a number between 1 and 99.
+  - Hard: Guess a number between 100 and 999.
+  - Expert: Guess a number between 1000 and 9999.
   
 - User Interaction: The user enters guesses, and the game provides feedback on whether the guess is too high, too low, or correct.
   
