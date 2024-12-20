@@ -1,7 +1,5 @@
 # NGuess
 
-# Number Guessing Game - Group Project
-
 This project is a number guessing game implemented in Java, created as a collaborative group effort. The game demonstrates our ability to design, implement, and optimize a simple interactive application. It features multiple difficulty levels, user input validation, and basic game logic, providing a fun and engaging experience for players.
 
 ## Features
